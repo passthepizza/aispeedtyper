@@ -4,7 +4,7 @@ Fastest Speedtyper is a powerful macro tool that allows you to automate roleplay
 
 ## Features
 
-- Use of screenshot and OCR to capture and process text from the screen
+- Use of screenshots and OCR to capture and process text from the screen
 - Customizable bot configuration, including pronouns, weapons/skills, and roleplay excerpts to copy styles
 - Adjustable system prompt
 - Auto-paste functionality 
