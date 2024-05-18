@@ -32,7 +32,7 @@ Before running the macro, ensure that you have the following:
    ```
    python main.py
    ```
-2. The Fastest Speedtyper GUI will launch, displaying a loading screen followed by the main roleplay screen.
+2. The GUI will launch.
 3. Configure the bot settings by clicking on the "Bot Configuration" button and adjusting the values in the popup window.
 4. Enter your groq.com key and ocr.space key in the input fields and click "Save API Keys".
 5. Ensure that the target application (e.g., Roblox) is open and ready for roleplay.
