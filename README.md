@@ -16,7 +16,7 @@ Fastest Speedtyper is a powerful macro tool that allows you to automate roleplay
 Before running the macro, ensure that you have the following:
 
 - Python 3.x installed on your system
-- Required Python packages: `pyautogui`, `pyperclip`, `openai`, `requests`, `Pillow`, `keyboard`, `kivy`
+- Required Python packages: `pyautogui`, `pyperclip`, `openai==0.28`, `requests`, `Pillow`, `keyboard`, `kivy`
 
 ## Installation
 
