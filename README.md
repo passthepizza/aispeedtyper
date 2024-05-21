@@ -44,7 +44,7 @@ Before running the macro, ensure that you have the following:
 
 - Modify the `bot_config.json` file to customize the bot's pronouns, weapons/skills, roleplay excerpts, and system prompt.
 - Adjust the max tokens and stop sequences in the bot configuration to control the length and coherence of the generated responses.
-- Toggle the auto-paste and Roblox auto-paste switches in the GUI.y.
+- Toggle the auto-paste and Roblox auto-paste switches in the GUI.
 
 ## Disclaimer
 
