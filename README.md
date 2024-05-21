@@ -23,7 +23,7 @@ Before running the macro, ensure that you have the following:
 1. Clone the repository or download the source code files.
 2. Install the required Python packages by running the following command:
    ```
-   pip install pyautogui pyperclip openai requests Pillow keyboard kivy
+   pip install pyautogui pyperclip openai==0.28 requests Pillow keyboard kivy
    ```
 
 ## Usage
